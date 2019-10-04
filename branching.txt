@@ -6,3 +6,7 @@ adding another line to check commit
 
 just add something
 let make in another branch
+
+
+
+to merge both files
